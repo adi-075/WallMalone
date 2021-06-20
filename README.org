@@ -8,10 +8,9 @@ I find wallpapers in a number of different locations online but good places to c
 Majority of these wallpapers are Space and Anime photos. There are a few Car, Comic wallpapers present in my collection.
 
 * References
-**  ([https://boards.4chan.org/wg/catalog][/wg/])
-
-**  ([https://wallhaven.cc/][Wallhaven])
-**  ([https://unsplash.com/][Unsplash])
+**  ([#wg][https://boards.4chan.org/wg/catalog])
+**  ([#wallhaven][https://wallhaven.cc/])
+**  ([#unsplash][https://unsplash.com/])
 
 * Ownership
 Because I downloaded most of these from sites like Wallhaven, Unsplash and /wg/, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.

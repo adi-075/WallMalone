@@ -8,7 +8,7 @@ I find wallpapers in a number of different locations online but good places to c
 #+CAPTION: Desktop Screenshot
 #+ATTR_HTML:alt Desktop Screenshot :title Desktop Screenshot :align left
 [[https://github.com/adi-075/WallMalone/blob/master/cover.png]]
-https://github.com/adi-075/WallMalone/blob/master/img1.png
+[[https://github.com/adi-075/WallMalone/blob/master/img1.png]]
 
 * Style Of Wallpapers
 Majority of these wallpapers are Space and Anime photos. There are a few Car, Comic wallpapers present in my collection.

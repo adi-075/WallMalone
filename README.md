@@ -8,7 +8,7 @@
 
 
 |Games|Monsters|
-|-|-|-|
+|-|-|
 |![img](https://raw.githubusercontent.com/adi-075/WallMalone/master/Wallpapers/Games/006.jpg)|![img](https://raw.githubusercontent.com/adi-075/WallMalone/master/Wallpapers/Monsters/001.jpg)|
 
 
